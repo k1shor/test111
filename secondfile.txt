@@ -1,9 +1,5 @@
-second file 
-
-
-
-by first user
-modified by user2
-
-
-updateing file 2
+<<<<<<< HEAD
+FINAL FINAL
+=======
+FInal
+>>>>>>> 5ba4ffc8f923191ed7aa0496f7a66c7fbd851fc8
